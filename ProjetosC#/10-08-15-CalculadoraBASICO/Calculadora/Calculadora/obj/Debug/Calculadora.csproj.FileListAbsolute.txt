@@ -1,0 +1,11 @@
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\EtecMoratoLab\Desktop\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 10 de Agosto\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 10 de Agosto\Calculadora\Calculadora\obj\Debug\Calculadora.exe

@@ -1,0 +1,9 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\bin\Debug\ProjetoIMC1.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\bin\Debug\ProjetoIMC1.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\bin\Debug\ProjetoIMC1.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\ProjetoIMC1\ProjetoIMC1\obj\Debug\ProjetoIMC1.frmIMC.resources

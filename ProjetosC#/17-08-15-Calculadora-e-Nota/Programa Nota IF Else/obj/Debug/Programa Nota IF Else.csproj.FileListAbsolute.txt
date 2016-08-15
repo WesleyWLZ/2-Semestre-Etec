@@ -1,0 +1,18 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa_Nota_IF_Else.Form1.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa_Nota_IF_Else.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Programa Nota IF Else\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.exe.config
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.pdb
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\bin\Debug\Programa Nota IF Else.exe.config
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.exe
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Programa Nota IF Else\obj\Debug\Programa Nota IF Else.pdb

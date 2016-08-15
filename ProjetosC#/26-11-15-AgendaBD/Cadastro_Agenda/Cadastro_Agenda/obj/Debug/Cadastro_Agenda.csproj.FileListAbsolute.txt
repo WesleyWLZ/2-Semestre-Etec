@@ -1,0 +1,20 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.form1.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.pdb
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.exe.config
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.exe
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.pdb
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.exe
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.pdb
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.csprojResolveAssemblyReference.cache
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.form1.resources
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.Properties.Resources.resources
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.csproj.GenerateResource.Cache
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\bin\Debug\Cadastro_Agenda.exe.config
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 26 de Novembro\Cadastro_Agenda\Cadastro_Agenda\obj\Debug\Cadastro_Agenda.pdb

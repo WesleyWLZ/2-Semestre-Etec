@@ -1,0 +1,39 @@
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+c:\users\acessa\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+C:\Users\Acessa\Desktop\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Acessa\Desktop\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Acessa\Desktop\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+F:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojResolveAssemblyReference.cache
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Form1.resources
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.Cache

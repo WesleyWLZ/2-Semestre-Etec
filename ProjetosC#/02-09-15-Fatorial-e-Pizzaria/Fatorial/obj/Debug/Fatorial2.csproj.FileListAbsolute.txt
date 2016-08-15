@@ -1,0 +1,12 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\bin\Debug\Fatorial2.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\bin\Debug\Fatorial2.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\bin\Debug\Fatorial2.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.Form1.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Fatorial2\Fatorial2\obj\Debug\Fatorial2.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Fatorial2\bin\Debug\Fatorial2.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Fatorial2\obj\Debug\Fatorial2.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 02 de Setembro\Fatorial2\obj\Debug\Fatorial2.pdb

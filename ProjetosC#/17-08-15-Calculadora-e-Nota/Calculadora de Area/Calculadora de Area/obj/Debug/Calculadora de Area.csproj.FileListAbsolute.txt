@@ -1,0 +1,12 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\bin\Debug\Calculadora de Area.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\bin\Debug\Calculadora de Area.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\bin\Debug\Calculadora de Area.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora_de_Area.frmCalcFormas.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora_de_Area.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora de Area\Calculadora de Area\bin\Debug\Calculadora de Area.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora de Area\Calculadora de Area\obj\Debug\Calculadora de Area.pdb

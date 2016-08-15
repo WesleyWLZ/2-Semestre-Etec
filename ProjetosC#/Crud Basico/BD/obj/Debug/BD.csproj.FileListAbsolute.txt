@@ -1,0 +1,21 @@
+C:\Users\EtecMoratoLab\Desktop\BD\BD\bin\Debug\BD.exe.config
+C:\Users\EtecMoratoLab\Desktop\BD\BD\bin\Debug\BD.exe
+C:\Users\EtecMoratoLab\Desktop\BD\BD\bin\Debug\BD.pdb
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.exe
+C:\Users\EtecMoratoLab\Desktop\BD\BD\obj\Debug\BD.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\bin\Debug\BD.exe.config
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\bin\Debug\BD.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\bin\Debug\BD.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.csprojResolveAssemblyReference.cache
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.Form1.resources
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.Properties.Resources.resources
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.csproj.GenerateResource.Cache
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\bin\Debug\BD.exe.config
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.exe
+G:\Etec 2016\2 Semestre\Desenvolvimento de Software I\BD\BD\obj\Debug\BD.pdb

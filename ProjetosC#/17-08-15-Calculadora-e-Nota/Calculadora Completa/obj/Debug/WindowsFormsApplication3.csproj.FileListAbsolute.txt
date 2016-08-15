@@ -1,0 +1,18 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.frmCalc.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\bin\Debug\WindowsFormsApplication3.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.pdb
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\bin\Debug\WindowsFormsApplication3.exe.config
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.exe
+D:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.pdb
+E:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.exe
+E:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Agosto\Calculadora Completa\obj\Debug\WindowsFormsApplication3.pdb

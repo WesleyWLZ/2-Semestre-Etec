@@ -1,0 +1,18 @@
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.exe.config
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.pdb
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.csprojResolveAssemblyReference.cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.Form1.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.Properties.Resources.resources
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.csproj.GenerateResource.Cache
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.exe
+c:\users\etecmoratolab\documents\visual studio 2012\Projects\Procedimentos_Funções\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.exe.config
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.exe
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\bin\Debug\Procedimentos_Funções.pdb
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.csprojResolveAssemblyReference.cache
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.form1.resources
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.Properties.Resources.resources
+I:\Etec 2016\2 Semestre\Desenvolvimento de Software I\Projeto dia 17 de Setembro\Procedimentos_Funções\obj\Debug\Procedimentos_Funções.csproj.GenerateResource.Cache

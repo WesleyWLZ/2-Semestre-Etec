@@ -1,0 +1,9 @@
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe.config
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csprojResolveAssemblyReference.cache
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Properties.Resources.resources
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.csproj.GenerateResource.Cache
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.exe
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.pdb
+C:\Users\EtecMoratoLab\Desktop\OlaMundo\OlaMundo\obj\Debug\OlaMundo.Form1.resources
